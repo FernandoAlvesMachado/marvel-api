@@ -7,7 +7,7 @@ const Characters: React.FC = () => {
     //     .then(response => console.log(response.data.data))
     //     .catch(err => console.log(err))
     //   }, [])
-    return <h1>Characters</h1>;
+    return <h1>Characters 01</h1>;
 };
 
 export default Characters;
